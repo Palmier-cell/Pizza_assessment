@@ -304,3 +304,25 @@ Built as part of a technical assessment for demonstrating full-stack development
 - Clerk for seamless authentication
 - Radix UI for accessible components
 - Vercel for hosting platform
+
+## 🐛 ScreenShots
+
+![pizza1 2025-11-08 at 16 44 06 (2)](https://github.com/user-attachments/assets/8acc1bb5-a27c-433c-9298-24886f278fd1)
+
+
+<img width="841" height="598" alt="Screenshot 2025-11-08 at 16 45 24" src="https://github.com/user-attachments/assets/67bb9a90-5695-43c8-8fc8-a435952cb70f" />
+
+
+
+
+![pizza3 2025-11-08 at 16 44 06](https://github.com/user-attachments/assets/f5c0bb9d-cea1-4ae0-b49c-d2264e5995cd)
+
+
+![pizza4 2025-11-08 at 16 44 05 (2)](https://github.com/user-attachments/assets/13a20922-e3bc-4bae-8da1-155b8b77e27d)
+
+![pizza5 2025-11-08 at 16 44 05 (1)](https://github.com/user-attachments/assets/8bf9c16e-04d7-4243-aaad-a3fefcf078bb)
+
+![pizza6 2025-11-08 at 16 44 05](https://github.com/user-attachments/assets/e6ca8c6a-0dd7-4183-885f-4e969a175bef)
+
+
+
