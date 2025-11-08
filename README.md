@@ -307,22 +307,25 @@ Built as part of a technical assessment for demonstrating full-stack development
 
 ## 🐛 ScreenShots
 
-![pizza1 2025-11-08 at 16 44 06 (2)](https://github.com/user-attachments/assets/8acc1bb5-a27c-433c-9298-24886f278fd1)
 
 
-<img width="841" height="598" alt="Screenshot 2025-11-08 at 16 45 24" src="https://github.com/user-attachments/assets/67bb9a90-5695-43c8-8fc8-a435952cb70f" />
+![pizza1 2025-11-08 at 16 44 06 (2)](https://github.com/user-attachments/assets/ec013db4-12a3-4daf-a1d1-f16943c2110b)
+
+
+![pizza4 2025-11-08 at 16 44 05 (2)](https://github.com/user-attachments/assets/c197f4e6-c47a-4dc1-89b7-a76a15a58651)
+
+
+![pizza5 2025-11-08 at 16 44 05 (1)](https://github.com/user-attachments/assets/38bf59ab-1f5a-4ca1-9462-f8938515a640)
+
+<img width="1350" height="713" alt="Screenshot 2025-11-08 at 18 14 26" src="https://github.com/user-attachments/assets/25562929-8c53-4b44-81a4-92446c27365d" />
+
+<img width="1301" height="711" alt="Screenshot 2025-11-08 at 18 13 36" src="https://github.com/user-attachments/assets/4502aa52-e8f3-4319-8d15-3dc49078276b" />
+
+<img width="841" height="598" alt="Screenshot 2025-11-08 at 16 45 24" src="https://github.com/user-attachments/assets/aa470578-cfb5-4efc-b5e3-66affe5d8a4a" />
 
 
 
 
-![pizza3 2025-11-08 at 16 44 06](https://github.com/user-attachments/assets/f5c0bb9d-cea1-4ae0-b49c-d2264e5995cd)
-
-
-![pizza4 2025-11-08 at 16 44 05 (2)](https://github.com/user-attachments/assets/13a20922-e3bc-4bae-8da1-155b8b77e27d)
-
-![pizza5 2025-11-08 at 16 44 05 (1)](https://github.com/user-attachments/assets/8bf9c16e-04d7-4243-aaad-a3fefcf078bb)
-
-![pizza6 2025-11-08 at 16 44 05](https://github.com/user-attachments/assets/e6ca8c6a-0dd7-4183-885f-4e969a175bef)
 
 
 
